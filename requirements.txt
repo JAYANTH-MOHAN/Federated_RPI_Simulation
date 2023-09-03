@@ -1,0 +1,6 @@
+datetime
+pytz
+pyyaml
+Adafruit_DHT
+sklearn
+flask

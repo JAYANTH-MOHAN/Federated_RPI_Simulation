@@ -1,0 +1,10 @@
+---
+meta:
+  - nodeName: "dosa"
+  - nodeID: 1
+
+
+cryptochain:
+  - port: 3030
+  - root_node: 192.168.0.101
+  
